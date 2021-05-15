@@ -2,7 +2,7 @@
 ___
 
 ## Barcode Generator
-[https://barcode.tec-it.com/en](url)
+<https://barcode.tec-it.com/en>
 
 ___
 
@@ -27,10 +27,10 @@ ___
 ## Hardware / Supplies
 
 #### Amazon Basics 9" Thermal Laminator Machine
-[https://www.amazon.com/gp/product/B00BUI5QWS](url)
+<https://www.amazon.com/gp/product/B00BUI5QWS>
 
 #### 5MIL Credit Card 2-1/8" x 3-3/8" Laminating Pouches - 100pk
-[https://www.mybinding.com/5mil-laminating-pouches.html?sku=TLP5CREDIT](url)
+<https://www.mybinding.com/5mil-laminating-pouches.html?sku=TLP5CREDIT>
 
 #### Samyo Hand Held ID Card Slot Hole Punch
-[https://www.amazon.com/gp/product/B00R9BLZM0](url)
+<https://www.amazon.com/gp/product/B00R9BLZM0>
